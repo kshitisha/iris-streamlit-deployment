@@ -8,7 +8,7 @@ model = joblib.load("svm_model.pkl")
 scaler = joblib.load("scaler.pkl")
 
 
-st.title("iris flower prediction app")
+st.title("iris flower prediction app by Kshitisha")
 
 st.markdown("predict the iris species using sepal and petal measurements.")
 
