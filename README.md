@@ -16,7 +16,7 @@ This is a simple, interactive web app that predicts the species of an Iris flowe
 
 ---
 
-### 🗃Technologies Used
+### Technologies Used
 
 - Python
 - Pandas, NumPy
